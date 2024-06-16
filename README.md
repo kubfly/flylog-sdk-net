@@ -1,2 +1,2 @@
-# flylog-sdk-net
-FlyLog SDK for .NET
+# FlyLog SDK for .NET
+Provides .NET API for application development with FlyLog framework.
